@@ -12,4 +12,4 @@ ESERCIZIO 2A
 [forma_e_senso]
 
 ESERCIZIO 2B  
-[movimento come senso]
+[movimento_come_senso]
