@@ -8,8 +8,8 @@ ESERCIZIO 1A
 ESERCIZIO 1B  
 [dittico_interattivo](Esercizio_1B/indexD.html)
 
-ESERCIZIO 2A
+ESERCIZIO 2A  
 [forma_e_senso]
 
-ESERCIZIO 2B
+ESERCIZIO 2B  
 [movimento come senso]
