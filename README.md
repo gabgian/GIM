@@ -1,6 +1,8 @@
 # GIM
 Esercizi di grafica in movimento (2023) 
 
+gabriele_gianora
+CV1
 
 ESERCIZIO 1A  
 [essenza_del_movimento]
