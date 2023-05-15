@@ -26,4 +26,4 @@ elenco degli esercizi svolti durante il corso:
 
 #### ESERCIZIO 3 - prima programmazione
 
-#### ESERCIZIO 4 - non si sa ancora 
+#### ESERCIZIO 4 - che ora è? 
