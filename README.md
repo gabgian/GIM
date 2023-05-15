@@ -24,6 +24,10 @@ elenco degli esercizi svolti durante il corso:
 #### ESERCIZIO 2B - movimento come senso  
 [movimento_come_senso]  
 
-#### ESERCIZIO 3 - prima programmazione
+#### ESERCIZIO 3 - prima programmazione  
+[pong] 
+[pioggia] 
+[neve] 
 
-#### ESERCIZIO 4 - che ora è? 
+#### ESERCIZIO 4 - che ora è?  
+[orologio] 
