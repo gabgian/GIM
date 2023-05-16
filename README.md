@@ -7,7 +7,7 @@ CV1
 #### ESERCIZIO 1A - essenza del movimento  
 elenco degli esercizi svolti durante il corso:  
 [aperto_chiuso_2](Esercizio_1A/aperto-chiuso_2.html)  
-[aperto_chiuso_3](Esercizio_1A/aperto-chiuso_3.html)
+[aperto_chiuso_3](Esercizio_1A/aperto-chiuso_3.html)  
 [acceso_spento_2](Esercizio_1A/acceso_spento_2.html)  
 [acceso_spento_3](Esercizio_1A/acceso_spento_3.html)  
 [rotazione_2](Esercizio_1A/rotazione_2.html)  
