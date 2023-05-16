@@ -8,7 +8,7 @@ CV1
 elenco degli esercizi svolti durante il corso:  
 [aperto_chiuso_2]  
 [aperto_chiuso_3]  
-[acceso_spento_2]  
+[acceso_spento_2](Esercizio_1A/acceso_spento_2.html)  
 [acceso_spento_3]  
 [rotazione_2]  
 [rotazione_3]  
