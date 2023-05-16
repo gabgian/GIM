@@ -1,19 +1,20 @@
 # GIM
 Esercizi di grafica in movimento (2023) 
 
-gabriele_gianora  
+gabriele gianora  
 CV1
 
+esercizi svolti durante il corso:  
+
 #### ESERCIZIO 1A - essenza del movimento  
-elenco degli esercizi svolti durante il corso:  
-[aperto_chiuso_2]  
-[aperto_chiuso_3]  
-[acceso_spento_2]  
-[acceso_spento_3]  
-[rotazione_2]  
-[rotazione_3]  
-[spostamento_2]  
-[spostamento_3]  
+[aperto_chiuso_2](Esercizio_1A/aperto-chiuso_2.html)  
+[aperto_chiuso_3](Esercizio_1A/aperto-chiuso_3.html)  
+[acceso_spento_2](Esercizio_1A/acceso_spento_2.html)  
+[acceso_spento_3](Esercizio_1A/acceso_spento_3.html)  
+[rotazione_2](Esercizio_1A/rotazione_2.html)  
+[rotazione_3](Esercizio_1A/rotazione_3.html)  
+[spostamento_2](Esercizio_1A/spostamento_2.html)  
+[spostamento_3](Esercizio_1A/spostamento_3.html)  
 
 #### ESERCIZIO 1B - dittico interattivo  
 [dittico_interattivo](Esercizio_1B/indexD.html)  
