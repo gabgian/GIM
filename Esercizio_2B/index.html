@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>gianora_gabriele_forma_senso_movimento</title>
+	<style>
+		body {
+			background-color: lightgray;
+			margin: 0;
+			padding: 0;
+		}
+		canvas {
+			display: block;
+		}
+		#video-container {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: windowWidth;
+			height: windowHeight;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			z-index: -1;
+		}
+		#my-video {
+			width: windowWidth;
+			height: windowHeight;
+			object-fit: cover;
+		}
+	</style>
+</head>
+<body>
+	<script src="https://cdn.jsdelivr.net/npm/p5@1.6.0/lib/p5.min.js"></script>
+	<script src="sketch.js"></script>
+
+	<div id="video-container">
+		<video id="my-video" loop autoplay muted>
+			<source src="img/autostima.mp4" type="video/mp4">
+			Il video non può essere riprodotto sul tuo browser.
+		</video>
+	</div>
+
+	<script>
+		// Aggiungi un event listener per adattare le dimensioni del video alla finestra del browser
+		window.addEventListener('resize', resizeVideo);
+
+		// Funzione per adattare le dimensioni del video alla finestra del browser
+		function resizeVideo() {
+			var video = document.getElementById('my-video');
+			var container = document.getElementById('video-container');
+			var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+			var windowHeight = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+
+			// Imposta le dimensioni del video in base alle dimensioni della finestra del browser
+			video.style.width = windowWidth + 'px';
+			video.style.height = windowHeight + 'px';
+		}
+
+		// Esegui la funzione resizeVideo all'avvio e ogni volta che la finestra del browser viene ridimensionata
+		resizeVideo();
+	</script>
+</body>
+</html>
