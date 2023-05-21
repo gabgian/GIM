@@ -23,7 +23,7 @@ esercizi svolti durante il corso:
 [forma_e_senso](https://gabgian.github.io/GIM/Esercizio_2A/index.html)  
 
 #### ESERCIZIO 2B - movimento come senso  
-[movimento_come_senso]  
+[movimento_come_senso](https://gabgian.github.io/GIM/Esercizio_2B/index.html)  
 
 #### ESERCIZIO 3 - prima programmazione  
 [pong](https://gabgian.github.io/GIM/Esercizio_3_pong)  
