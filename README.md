@@ -26,9 +26,9 @@ esercizi svolti durante il corso:
 [movimento_come_senso]  
 
 #### ESERCIZIO 3 - prima programmazione  
-[pong] 
-[pioggia] 
-[neve] 
+[pong](https://gabgian.github.io/GIM/Esercizio_3_pong)  
+[pioggia]  
+[neve]  
 
 #### ESERCIZIO 4 - che ora è?  
 [orologio] 
