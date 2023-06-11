@@ -27,7 +27,7 @@ esercizi svolti durante il corso:
 
 #### ESERCIZIO 3 - prima programmazione  
 [pong](https://gabgian.github.io/GIM/Esercizio_3_pong)  
-[pioggia]  
+[pioggia](https://gabgian.github.io/GIM/Esercizio_3_pioggia)  
 [neve]  
 
 #### ESERCIZIO 4 - che ora è?  
