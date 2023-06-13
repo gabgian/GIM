@@ -33,4 +33,4 @@ SUPSI 2022/23
 [neve](https://gabgian.github.io/GIM/Esercizio_3_neve)  
 
 #### ESERCIZIO 4 - che ora è?  
-[orologio](https://gabgian.github.io/GIM/Esercizio_3_orologio)   
+[orologio](https://gabgian.github.io/GIM/Esercizio_4_orologio)   
