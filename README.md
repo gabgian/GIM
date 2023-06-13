@@ -1,10 +1,12 @@
 # GIM
-Esercizi di grafica in movimento (2023) 
 
-gabriele gianora  
-CV1
 
-esercizi svolti durante il corso:  
+gabriele gianora   
+
+CV223.01   
+grafica in movimento   
+docente: andreas gysin   
+SUPSI 2022/23   
 
 #### ESERCIZIO 1A - essenza del movimento  
 [aperto_chiuso_2](https://gabgian.github.io/GIM/Esercizio_1A/aperto-chiuso_2.html)  
@@ -28,7 +30,7 @@ esercizi svolti durante il corso:
 #### ESERCIZIO 3 - prima programmazione  
 [pong](https://gabgian.github.io/GIM/Esercizio_3_pong)  
 [pioggia](https://gabgian.github.io/GIM/Esercizio_3_pioggia)  
-[neve]  
+[neve](https://gabgian.github.io/GIM/Esercizio_3_neve)  
 
 #### ESERCIZIO 4 - che ora è?  
 [orologio] 
