@@ -6,6 +6,7 @@ gabriele gianora
 CV223.01   
 grafica in movimento   
 docente: andreas gysin   
+assistente: desirée veschetti   
 SUPSI 2022/23   
 
 #### ESERCIZIO 1A - essenza del movimento  
