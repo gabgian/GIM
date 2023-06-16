@@ -32,5 +32,10 @@ SUPSI 2022/23
 [pioggia](https://gabgian.github.io/GIM/Esercizio_3_pioggia)  
 [neve](https://gabgian.github.io/GIM/Esercizio_3_neve)  
 
-#### ESERCIZIO 4 - che ora è?  
+#### ESERCIZIO 4 - orologio  
+l'idea è nata dal detto "contemplare gli astri". Nel caso del mio orologio invece, contempliamo i colori.   
+L'orologio è composto da tre segmenti; ore, minuti e secondi. Ogni sezione è costituita da una sfumatura di colori RGB.   
+Ad ogni secondo, ogni minuto e ora che trascorre, cambiano aspetto, immergendoci in un concetto meditativo.  
+Qualora ci dovessimo smarrire, immersi nella contemplazione, un semplice clic ci permette di scoprire l'ora corrente.   
+
 [orologio](https://gabgian.github.io/GIM/Esercizio_4_orologio)   
