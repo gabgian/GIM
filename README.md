@@ -40,5 +40,5 @@ Nel caso del mio orologio invece, contempliamo i colori.
 L'orologio è composto da tre segmenti; ore, minuti e secondi.   
 Ogni sezione è costituita da una sfumatura di colori RGB.   
 Ad ogni secondo, ogni minuto e ora che trascorre, cambiano aspetto, immergendoci in un concetto meditativo.  
-Qualora ci dovessimo smarrire, immersi nella contemplazione, un semplice clic ci permette di scoproire l'ora corrente.   
+Qualora ci dovessimo smarrire, immersi nella contemplazione, un semplice clic ci permette di scoprire l'ora corrente.   
 Namasté.   
